@@ -1,3 +1,2 @@
 # Spotify-Landing-Page🌐🌐
-It is simplified landing page for spotify well known music platform...🎵🎵🎧
-It is landing page for Spotify Premium 💸💸
+It is simplified landing page for Spotify Premium, a well known music platform...🎵🎵🎧
